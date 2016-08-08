@@ -1,0 +1,5 @@
+c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\Turnover Queue\obj\Debug\Turnover Queue.csprojResolveAssemblyReference.cache
+c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\Turnover Queue\bin\Debug\Turnover Queue.dll
+c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\Turnover Queue\bin\Debug\Turnover Queue.pdb
+c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\Turnover Queue\obj\Debug\Turnover Queue.dll
+c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\Turnover Queue\obj\Debug\Turnover Queue.pdb
