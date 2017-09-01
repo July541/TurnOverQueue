@@ -1,7 +1,0 @@
-c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\TurnOverQueue\bin\Debug\TurnOverQueue.exe
-c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\TurnOverQueue\bin\Debug\TurnOverQueue.pdb
-c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\TurnOverQueue\bin\Debug\Turnover Queue.dll
-c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\TurnOverQueue\bin\Debug\Turnover Queue.pdb
-c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\TurnOverQueue\obj\Debug\TurnOverQueueTest.csprojResolveAssemblyReference.cache
-c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\TurnOverQueue\obj\Debug\TurnOverQueue.exe
-c:\users\zhule\documents\visual studio 2013\Projects\Turnover Queue\TurnOverQueue\obj\Debug\TurnOverQueue.pdb
